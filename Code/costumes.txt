@@ -1,0 +1,4 @@
+Iron Man,MegaPlex,$14.5,200
+Thor Costume,DollarSmart,$18,200
+Hulk Costume,Marvel INC,$23,100
+Capt America,DC Comics,$25,200
